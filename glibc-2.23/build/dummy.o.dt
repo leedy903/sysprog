@@ -1,0 +1,17 @@
+/home/sysprog/sysprog2017/glibc2.23/glibc-2.23/build/dummy.o: \
+ /home/sysprog/sysprog2017/glibc2.23/glibc-2.23/build/dummy.c \
+ ../include/stdc-predef.h \
+ /home/sysprog/sysprog2017/glibc2.23/glibc-2.23/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/sysprog/sysprog2017/glibc2.23/glibc-2.23/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/sysprog/sysprog2017/glibc2.23/glibc-2.23/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/sysprog/sysprog2017/glibc2.23/glibc-2.23/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
